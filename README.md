@@ -1,32 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aavishkar Chaudhari<br>Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Aavishkar Chaudhari</h1>
+<h3 align="center">Computer Engineering Student | Competitive Programmer | Full-Stack Developer</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/aavishkarchaudhari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Passionate+about+DSA+%26+CP;Java+Backend+%26+Spring+Boot;MERN+Stack+Web+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-</h1>
+</p>
 
-###
+---
 
-<h3 align="center">Focused on building real-world projects and preparing for software engineering roles.</h3>
+## 👨‍💻 About Me
 
-<h2>About Me</h2>
+- 💻 Built backend systems and full-stack apps using Java, Spring Boot, and MERN.
+- 📈 Improving problem-solving speed, consistency, and backend skills.
+- 🎯 Preparing for SDE roles with strong DSA, CP, and Java backend.
 
-<ul>
-  <li>🎓 Computer Engineering student</li>
-  <li>💻 Full-stack web developer building end-to-end web applications</li>
-  <li>⚛️ Frontend: React for clean, responsive, user-focused interfaces</li>
-  <li>🛠️ Backend: Node.js, Express, MongoDB for scalable APIs and data handling</li>
-  <li>🚀 Experience in building and deploying real-world projects</li>
-  <li>🧠 Focused on clean code, maintainable architecture, and usability</li>
-  <li>📦 Interested in product-driven development and solving practical problems</li>
-</ul>
+---
 
-
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aavishkar-chaudhari/" target="_blank">
@@ -37,63 +32,37 @@
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Skills:</h2>
+## 🛠️ Tech Stack & Tools
 
-###
+### 💻 Programming Languages
 
-<h4>💻 Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### ⚙️ Frameworks & Libraries
 
-<h4>🎨 Frontend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,spring,nodejs,express" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+### 🗄 Databases & Cloud
 
-<h4>⚙️ Backend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
-</div>
+### 🛠️ Tools
 
-<h4>🗄️ Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
+---
 
-<h4>🛠️ Tools & IDEs</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Stats:</h2>
+## 📊 GitHub Analytics
 
 ###
 
@@ -107,7 +76,7 @@
 
 ###
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aavishkarchaudhari&theme=radical&=true" alt="streak graph" /> <br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=aavishkarchaudhari&theme=radical&=true" alt="streak graph" /> <br>
 
 ###
 
@@ -132,4 +101,8 @@
   
 </div>
 
-###
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aavishkarchaudhari&label=Profile%20Views&color=F72585&style=flat-square" alt="Profile Views" />
+</p>
