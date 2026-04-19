@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Aavishkar Chaudhari</h1>
-<h3 align="center">Computer Engineering Student | Competitive Programmer | Full-Stack Developer</h3>
+<div align="center">
 
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aavishkar%20Chaudhari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/aavishkarchaudhari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Passionate+about+DSA+%26+CP;Java+Backend+%26+Spring+Boot;MERN+Stack+Web+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+backend+systems;%E2%9A%A1+Java+%7C+Spring+Boot+%7C+MERN+Stack;%F0%9F%8E%AF+DSA+%26+Competitive+Programming+enthusiast;%F0%9F%92%A1+Turning+ideas+into+real-world+products" alt="Typing SVG" />
   </a>
 </p>
+
+
+<br/>
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -23,42 +31,46 @@
 
 ## 🌐 Connect With Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aavishkar-chaudhari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:aavishkar.chaudhari24@pccoepune.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+| [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/aavishkar-chaudhari/) | [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:aavishkar.chaudhari24@pccoepune.org) |
+|:--:|:--:|
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
+<table align="center">
+<tr>
+<td>Programming Languages</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</a> 
+</td>
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
+<tr>
+<td>Frameworks & Libraries</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=react,tailwind,spring,nodejs,express" />
+  </a>
+</td>
+</tr>
 
-### ⚙️ Frameworks & Libraries
+<tr>
+<td>Databases & Cloud</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
+   </a>
+</td>
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,spring,nodejs,express" />
-</p>
-
-### 🗄 Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
+<tr>
+<td>Tools</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
