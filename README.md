@@ -10,7 +10,6 @@
   </a>
 </p>
 
-
 <br/>
 
 </div>
@@ -32,7 +31,7 @@
 ## 🌐 Connect With Me
 
 | [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/aavishkar-chaudhari/) | [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:aavishkar.chaudhari24@pccoepune.org) |
-|:--:|:--:|
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
 
@@ -42,31 +41,39 @@
 <tr>
 <td>Programming Languages</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </a> 
 </td>
 </tr>
 
 <tr>
-<td>Frameworks & Libraries</td>
+<td>Frontend</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=react,tailwind,spring,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
   </a>
 </td>
 </tr>
 
 <tr>
-<td>Databases & Cloud</td>
+<td>Backend</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>Databases & Deployment</td>
+<td> <a href="https://github.com/aavishkarchaudhari" >
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
    </a>
 </td>
 </tr>
 
 <tr>
-<td>Tools</td>
+<td>Developer Tools</td>
 <td> <a href="https://github.com/aavishkarchaudhari" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
   </a>
 </td>
 </tr>
@@ -88,29 +95,12 @@
 
 ###
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=aavishkarchaudhari&theme=radical&=true" alt="streak graph" /> <br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkarchaudhari&theme=radical&border_radius=1" alt="GitHub Streak" /></a> <br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aavishkarchaudhari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-###
-
-<br>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aavishkarchaudhari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
-
-###
-
-<br>
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app?username=aavishkarchaudhari&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  
 </div>
 
 ---
